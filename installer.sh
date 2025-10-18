@@ -14,14 +14,14 @@ LOG="$HOME/install.log"
 
 clear
 
-echo "  ______                _           _              _____  _                   "
-echo " |  ____|              | |         | |            |  __ \\(_)                 "
-echo " | |__   _ __   ___ ___| | __ _  __| |_   _ ___   | |__) |_  ___ ___          "
-echo " |  __| | '_ \\ / __/ _ \\ |/ _\` |/ _\` | | | / __|  |  _  /| |/ __/ _ \\    "
-echo " | |____| | | | (_|  __/ | (_| | (_| | |_| \\__ \\  | | \\ \\| | (_|  __/     "
-echo " |______|_| |_|\\___\\___|_|\\__,_|\\__,_|\\__,_|___/  |_|  \\_\\_|\\___\\___|"
-echo "                                                                              "
-echo "                                                                              "
+echo "  _    _                  _           _           "
+echo " | |  | |                | |         | |          "
+echo " | |__| |_   _ _ __  _ __| | __ _  __| |_   _ ___ "
+echo " |  __  | | | | '_ \\| '__| |/ _\` |/ _\` | | | / __|"
+echo " | |  | | |_| | |_) | |  | | (_| | (_| | |_| \\__ \\"
+echo " |_|  |_|\\__, | .__/|_|  |_|\\__,_|\\__,_|\\__,_|___/"
+echo "          __/ | |                                 "
+echo "         |___/|_|                                 "
 
 sudo pacman -S --needed --noconfirm git base-devel
 
@@ -33,7 +33,7 @@ if ! command -v yay &>/dev/null; then
     git clone https://aur.archlinux.org/yay.git "$tmp_dir/yay"
 
     cd "$tmp_dir/yay" || exit
-    sudo makepkg -si --noconfirm
+    makepkg -si --noconfirm
 
     cd ~ || exit
     rm -rf "$tmp_dir"
