@@ -23,43 +23,6 @@ echo " |______|_| |_|\\___\\___|_|\\__,_|\\__,_|\\__,_|___/  |_|  \\_\\_|\\___\\
 echo "                                                                              "
 echo "                                                                              "
 
-mkdir -p ~/.local/share/bin ~/.cache/wal ~/.config/wal ~/Pictures ~/.config ~/etc/greetd ~/Documents ~/Downloads ~/Music ~/Videos
-
-echo "Copying .oh-my-zsh"
-cp -r .oh-my-zsh ~/
-echo "Copying .bashrc"
-cp .bashrc ~/
-echo "Copying .zshrc"
-cp .zshrc ~/
-echo "Copying .p10k.zsh"
-cp .p10k.zsh ~/
-echo "Copying set_wallpaper.sh"
-cp set_wallpaper.sh ~/
-echo "Copying rmnot.sh"
-cp rmnot.sh ~/
-echo "Copying wallpapers"
-cp -r Wallpapers/ ~/Pictures/
-echo "Copying wal cache"
-cp -r cache/wal ~/.cache/wal/
-echo "Copying wal config"
-cp -r cache/wal ~/.config/wal/
-echo "Copying scripts"
-cp -r local_share/* ~/.local/share/bin/
-echo "Copying cava config"
-cp -r config/cava ~/.config/
-echo "Copying fastfetch config"
-cp -r config/fastfetch ~/.config/
-echo "Copying hypr config"
-cp -r config/hypr ~/.config/
-echo "Copying rofi config"
-cp -r config/rofi ~/.config/
-echo "Copying waybar"
-cp -r config/waybar/ ~/.config/
-echo "Copying cursor theme"
-cp -r Bibata-Original-Classic usr/share/icons/
-cp greetui/config.toml /etc/greetd/
-
-
 pacman -S --needed --noconfirm git base-devel
 
 tmp_dir=$(mktemp -d)
@@ -164,6 +127,45 @@ done
 echo "Enabling services"
 systemctl enable NetworkManager.service
 systemctl enable greet.service
+
+
+# COPYING FILES
+
+mkdir -p ~/.local/share/bin ~/.cache/wal ~/.config/wal ~/Pictures ~/.config ~/etc/greetd ~/Documents ~/Downloads ~/Music ~/Videos
+
+echo "Copying .oh-my-zsh"
+cp -r .oh-my-zsh ~/
+echo "Copying .bashrc"
+cp .bashrc ~/
+echo "Copying .zshrc"
+cp .zshrc ~/
+echo "Copying .p10k.zsh"
+cp .p10k.zsh ~/
+echo "Copying set_wallpaper.sh"
+cp set_wallpaper.sh ~/
+echo "Copying rmnot.sh"
+cp rmnot.sh ~/
+echo "Copying wallpapers"
+cp -r Wallpapers/ ~/Pictures/
+echo "Copying wal cache"
+cp -r cache/wal ~/.cache/wal/
+echo "Copying wal config"
+cp -r cache/wal ~/.config/wal/
+echo "Copying scripts"
+cp -r local_share/* ~/.local/share/bin/
+echo "Copying cava config"
+cp -r config/cava ~/.config/
+echo "Copying fastfetch config"
+cp -r config/fastfetch ~/.config/
+echo "Copying hypr config"
+cp -r config/hypr ~/.config/
+echo "Copying rofi config"
+cp -r config/rofi ~/.config/
+echo "Copying waybar"
+cp -r config/waybar/ ~/.config/
+echo "Copying cursor theme"
+cp -r Bibata-Original-Classic /usr/share/icons/
+cp greetui/config.toml /etc/greetd/
 
 ./set_wallpaper.sh Wallpapers/hypr.png
 
