@@ -49,6 +49,8 @@ packages=(
     firefox
     waybar
     micro
+    vim
+    neovim
     kitty
     hyprpolkitagent
     hyprlock
@@ -103,7 +105,6 @@ packages=(
     cava
     blueman
     autocpufreq
-    neovim
     feh
     okular
     timeshift
