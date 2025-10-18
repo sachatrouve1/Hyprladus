@@ -23,7 +23,7 @@ echo " |______|_| |_|\\___\\___|_|\\__,_|\\__,_|\\__,_|___/  |_|  \\_\\_|\\___\\
 echo "                                                                              "
 echo "                                                                              "
 
-pacman -S --needed --noconfirm git base-devel
+sudo pacman -S --needed --noconfirm git base-devel
 
 tmp_dir=$(mktemp -d)
 
@@ -33,7 +33,7 @@ if ! command -v yay &>/dev/null; then
     git clone https://aur.archlinux.org/yay.git "$tmp_dir/yay"
 
     cd "$tmp_dir/yay" || exit
-    makepkg -si --noconfirm
+    sudo makepkg -si --noconfirm
 
     cd ~ || exit
     rm -rf "$tmp_dir"
@@ -125,8 +125,8 @@ done
 # SERVICES
 
 echo "Enabling services"
-systemctl enable NetworkManager.service
-systemctl enable greet.service
+sudo systemctl enable NetworkManager.service
+sudo systemctl enable greet.service
 
 
 # COPYING FILES
@@ -164,8 +164,8 @@ cp -r config/rofi ~/.config/
 echo "Copying waybar"
 cp -r config/waybar/ ~/.config/
 echo "Copying cursor theme"
-cp -r Bibata-Original-Classic /usr/share/icons/
-cp greetui/config.toml /etc/greetd/
+sudo cp -r Bibata-Original-Classic /usr/share/icons/
+sudo cp greetui/config.toml /etc/greetd/
 
 ./set_wallpaper.sh Wallpapers/hypr.png
 
