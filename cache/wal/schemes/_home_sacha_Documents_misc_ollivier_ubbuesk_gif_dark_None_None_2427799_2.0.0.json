@@ -1,0 +1,28 @@
+{
+    "checksum": "a2e88a7dae3a6bebe2487c91965cf29c",
+    "wallpaper": "/home/sacha/Documents/misc/ollivier_ubbuesk.gif",
+    "alpha": "100",
+    "special": {
+        "background": "#180a18",
+        "foreground": "#c5c1c5",
+        "cursor": "#c5c1c5"
+    },
+    "colors": {
+        "color0": "#180a18",
+        "color1": "#AAA05E",
+        "color2": "#C6B368",
+        "color3": "#707E80",
+        "color4": "#778B8F",
+        "color5": "#69C4BE",
+        "color6": "#92A0A3",
+        "color7": "#c5c1c5",
+        "color8": "#6d596d",
+        "color9": "#AAA05E",
+        "color10": "#C6B368",
+        "color11": "#707E80",
+        "color12": "#778B8F",
+        "color13": "#69C4BE",
+        "color14": "#92A0A3",
+        "color15": "#c5c1c5"
+    }
+}

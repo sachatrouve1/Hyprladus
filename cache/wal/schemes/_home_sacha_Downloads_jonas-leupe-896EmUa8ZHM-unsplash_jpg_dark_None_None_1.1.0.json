@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Downloads/jonas-leupe-896EmUa8ZHM-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010E0C",
+        "foreground": "#bebfb0",
+        "cursor": "#bebfb0"
+    },
+    "colors": {
+        "color0": "#010E0C",
+        "color1": "#2E6339",
+        "color2": "#44513C",
+        "color3": "#2B5448",
+        "color4": "#326150",
+        "color5": "#516B5A",
+        "color6": "#608673",
+        "color7": "#bebfb0",
+        "color8": "#85857b",
+        "color9": "#2E6339",
+        "color10": "#44513C",
+        "color11": "#2B5448",
+        "color12": "#326150",
+        "color13": "#516B5A",
+        "color14": "#608673",
+        "color15": "#bebfb0"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "0c3bb5f798dc13bbc3907780de38b49d",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/Sun-Setting-Horizon.png",
+    "alpha": "100",
+    "special": {
+        "background": "#080711",
+        "foreground": "#c1c1c3",
+        "cursor": "#c1c1c3"
+    },
+    "colors": {
+        "color0": "#080711",
+        "color1": "#F2602D",
+        "color2": "#A12A46",
+        "color3": "#BC4B58",
+        "color4": "#FD9434",
+        "color5": "#3B5889",
+        "color6": "#5F6691",
+        "color7": "#c1c1c3",
+        "color8": "#59566a",
+        "color9": "#F2602D",
+        "color10": "#A12A46",
+        "color11": "#BC4B58",
+        "color12": "#FD9434",
+        "color13": "#3B5889",
+        "color14": "#5F6691",
+        "color15": "#c1c1c3"
+    }
+}

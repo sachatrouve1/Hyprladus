@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Downloads/tim-stief-YFFGkE3y4F8-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#05100E",
+        "foreground": "#dddfe3",
+        "cursor": "#dddfe3"
+    },
+    "colors": {
+        "color0": "#05100E",
+        "color1": "#4F919E",
+        "color2": "#6C8F99",
+        "color3": "#93A4AC",
+        "color4": "#C3BEBD",
+        "color5": "#A3BAC5",
+        "color6": "#B4C6D0",
+        "color7": "#dddfe3",
+        "color8": "#9a9c9e",
+        "color9": "#4F919E",
+        "color10": "#6C8F99",
+        "color11": "#93A4AC",
+        "color12": "#C3BEBD",
+        "color13": "#A3BAC5",
+        "color14": "#B4C6D0",
+        "color15": "#dddfe3"
+    }
+}

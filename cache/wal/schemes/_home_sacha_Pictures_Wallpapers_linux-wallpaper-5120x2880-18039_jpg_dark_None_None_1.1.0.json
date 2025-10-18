@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/linux-wallpaper-5120x2880-18039.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#070606",
+        "foreground": "#e5bdb0",
+        "cursor": "#e5bdb0"
+    },
+    "colors": {
+        "color0": "#070606",
+        "color1": "#98300E",
+        "color2": "#BB5233",
+        "color3": "#DA4616",
+        "color4": "#DD4B29",
+        "color5": "#DB6D53",
+        "color6": "#BE816C",
+        "color7": "#e5bdb0",
+        "color8": "#a0847b",
+        "color9": "#98300E",
+        "color10": "#BB5233",
+        "color11": "#DA4616",
+        "color12": "#DD4B29",
+        "color13": "#DB6D53",
+        "color14": "#BE816C",
+        "color15": "#e5bdb0"
+    }
+}

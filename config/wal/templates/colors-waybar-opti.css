@@ -1,0 +1,20 @@
+@define-color foreground {foreground};
+@define-color background {background};
+@define-color cursor {cursor};
+
+@define-color color0 shade({color0}, 0.7);
+@define-color color1 shade({color1}, 0.7);
+@define-color color2 shade({color2}, 0.7);
+@define-color color3 shade({color3}, 0.7);
+@define-color color4 shade({color4}, 0.7);
+@define-color color5 shade({color5}, 0.7);
+@define-color color6 shade({color6}, 0.7);
+@define-color color7 shade({color7}, 0.7);
+@define-color color8 shade({color8}, 0.7);
+@define-color color9 shade({color9}, 0.7);
+@define-color color10 shade({color10}, 0.7);
+@define-color color11 shade({color11}, 0.7);
+@define-color color12 shade({color12}, 0.7);
+@define-color color13 shade({color13}, 0.7);
+@define-color color14 shade({color14}, 0.7);
+@define-color color15 shade({color15}, 0.7);

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/razer-neon-lights-colorful-dark-background-3840x2160-4453.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090B0D",
+        "foreground": "#dddae0",
+        "cursor": "#dddae0"
+    },
+    "colors": {
+        "color0": "#090B0D",
+        "color1": "#062E4D",
+        "color2": "#073464",
+        "color3": "#04525C",
+        "color4": "#AD283D",
+        "color5": "#0755A0",
+        "color6": "#7C8894",
+        "color7": "#dddae0",
+        "color8": "#9a989c",
+        "color9": "#062E4D",
+        "color10": "#073464",
+        "color11": "#04525C",
+        "color12": "#AD283D",
+        "color13": "#0755A0",
+        "color14": "#7C8894",
+        "color15": "#dddae0"
+    }
+}

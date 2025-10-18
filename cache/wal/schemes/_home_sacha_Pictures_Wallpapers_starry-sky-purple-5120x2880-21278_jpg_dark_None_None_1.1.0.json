@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/starry-sky-purple-5120x2880-21278.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#080416",
+        "foreground": "#d5caec",
+        "cursor": "#d5caec"
+    },
+    "colors": {
+        "color0": "#080416",
+        "color1": "#3C30C9",
+        "color2": "#6136CF",
+        "color3": "#6A51DC",
+        "color4": "#975EE2",
+        "color5": "#B86DE4",
+        "color6": "#7789E5",
+        "color7": "#d5caec",
+        "color8": "#958da5",
+        "color9": "#3C30C9",
+        "color10": "#6136CF",
+        "color11": "#6A51DC",
+        "color12": "#975EE2",
+        "color13": "#B86DE4",
+        "color14": "#7789E5",
+        "color15": "#d5caec"
+    }
+}

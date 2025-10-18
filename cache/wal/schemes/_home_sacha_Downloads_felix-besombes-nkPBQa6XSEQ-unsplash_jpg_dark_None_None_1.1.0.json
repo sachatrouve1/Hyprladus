@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Downloads/felix-besombes-nkPBQa6XSEQ-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#061615",
+        "foreground": "#f4d9b1",
+        "cursor": "#f4d9b1"
+    },
+    "colors": {
+        "color0": "#061615",
+        "color1": "#AD593C",
+        "color2": "#C8683E",
+        "color3": "#B36646",
+        "color4": "#CE7247",
+        "color5": "#E17E49",
+        "color6": "#F19152",
+        "color7": "#f4d9b1",
+        "color8": "#aa977b",
+        "color9": "#AD593C",
+        "color10": "#C8683E",
+        "color11": "#B36646",
+        "color12": "#CE7247",
+        "color13": "#E17E49",
+        "color14": "#F19152",
+        "color15": "#f4d9b1"
+    }
+}

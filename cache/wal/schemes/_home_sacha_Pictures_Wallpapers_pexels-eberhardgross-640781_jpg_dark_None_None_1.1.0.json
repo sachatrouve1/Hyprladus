@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/pexels-eberhardgross-640781.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#060905",
+        "foreground": "#ddcdc6",
+        "cursor": "#ddcdc6"
+    },
+    "colors": {
+        "color0": "#060905",
+        "color1": "#8F6A31",
+        "color2": "#8C766E",
+        "color3": "#A0867A",
+        "color4": "#C29753",
+        "color5": "#727885",
+        "color6": "#AD968C",
+        "color7": "#ddcdc6",
+        "color8": "#9a8f8a",
+        "color9": "#8F6A31",
+        "color10": "#8C766E",
+        "color11": "#A0867A",
+        "color12": "#C29753",
+        "color13": "#727885",
+        "color14": "#AD968C",
+        "color15": "#ddcdc6"
+    }
+}

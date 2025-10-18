@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/galaxy-cosmic-5376x3584-14974.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0716",
+        "foreground": "#a7c9e4",
+        "cursor": "#a7c9e4"
+    },
+    "colors": {
+        "color0": "#0e0716",
+        "color1": "#D66E55",
+        "color2": "#EC9D60",
+        "color3": "#F8CA6D",
+        "color4": "#38459F",
+        "color5": "#5F589E",
+        "color6": "#9B6D9F",
+        "color7": "#a7c9e4",
+        "color8": "#748c9f",
+        "color9": "#D66E55",
+        "color10": "#EC9D60",
+        "color11": "#F8CA6D",
+        "color12": "#38459F",
+        "color13": "#5F589E",
+        "color14": "#9B6D9F",
+        "color15": "#a7c9e4"
+    }
+}

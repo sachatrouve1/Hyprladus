@@ -1,0 +1,28 @@
+{
+    "checksum": "7b5156b85a6f0ad51267bdd88fc2c4d6",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/Sunset-Forrest.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101025",
+        "foreground": "#c3c3c8",
+        "cursor": "#c3c3c8"
+    },
+    "colors": {
+        "color0": "#101025",
+        "color1": "#674860",
+        "color2": "#8D3C4D",
+        "color3": "#9C5B64",
+        "color4": "#D6736C",
+        "color5": "#EF9970",
+        "color6": "#FBCF78",
+        "color7": "#c3c3c8",
+        "color8": "#5f5f74",
+        "color9": "#674860",
+        "color10": "#8D3C4D",
+        "color11": "#9C5B64",
+        "color12": "#D6736C",
+        "color13": "#EF9970",
+        "color14": "#FBCF78",
+        "color15": "#c3c3c8"
+    }
+}

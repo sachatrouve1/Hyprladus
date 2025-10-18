@@ -1,0 +1,21 @@
+set $wallpaper /home/sacha/Pictures/Wallpapers/Tower-Night.png
+
+set $background #13122b
+set $foreground #c4c3ca
+
+set $color0 #13122b
+set $color1 #0662B0
+set $color2 #4349A5
+set $color3 #0377C6
+set $color4 #9A6DB2
+set $color5 #059DE3
+set $color6 #42A4E1
+set $color7 #c4c3ca
+set $color8 #626177
+set $color9 #0662B0
+set $color10 #4349A5
+set $color11 #0377C6
+set $color12 #9A6DB2
+set $color13 #059DE3
+set $color14 #42A4E1
+set $color15 #c4c3ca

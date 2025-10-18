@@ -1,0 +1,28 @@
+{
+    "checksum": "f270324fe4a230c708d09fe458b7f498",
+    "wallpaper": "/home/sacha/Downloads/4268145.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#05050b",
+        "foreground": "#c0c0c2",
+        "cursor": "#c0c0c2"
+    },
+    "colors": {
+        "color0": "#05050b",
+        "color1": "#285169",
+        "color2": "#605A58",
+        "color3": "#9B6852",
+        "color4": "#7C8268",
+        "color5": "#BDA060",
+        "color6": "#396D8B",
+        "color7": "#c0c0c2",
+        "color8": "#545467",
+        "color9": "#285169",
+        "color10": "#605A58",
+        "color11": "#9B6852",
+        "color12": "#7C8268",
+        "color13": "#BDA060",
+        "color14": "#396D8B",
+        "color15": "#c0c0c2"
+    }
+}

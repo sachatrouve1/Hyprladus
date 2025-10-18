@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Downloads/nicolascage.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0a0a",
+        "foreground": "#c3deee",
+        "cursor": "#c3deee"
+    },
+    "colors": {
+        "color0": "#0b0a0a",
+        "color1": "#EF9D62",
+        "color2": "#33569A",
+        "color3": "#C23FA8",
+        "color4": "#53A6C3",
+        "color5": "#AFAFB2",
+        "color6": "#F7D4A4",
+        "color7": "#c3deee",
+        "color8": "#889ba6",
+        "color9": "#EF9D62",
+        "color10": "#33569A",
+        "color11": "#C23FA8",
+        "color12": "#53A6C3",
+        "color13": "#AFAFB2",
+        "color14": "#F7D4A4",
+        "color15": "#c3deee"
+    }
+}

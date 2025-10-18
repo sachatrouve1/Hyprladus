@@ -1,0 +1,28 @@
+{
+    "checksum": "7f3165e9ead381e02560087ff93ec71b",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/City-Rainy-Night.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0d19",
+        "foreground": "#c2c2c5",
+        "cursor": "#c2c2c5"
+    },
+    "colors": {
+        "color0": "#0b0d19",
+        "color1": "#9E6471",
+        "color2": "#16308F",
+        "color3": "#1F37A5",
+        "color4": "#294CAA",
+        "color5": "#495AB9",
+        "color6": "#2B54C9",
+        "color7": "#c2c2c5",
+        "color8": "#5a5c6e",
+        "color9": "#9E6471",
+        "color10": "#16308F",
+        "color11": "#1F37A5",
+        "color12": "#294CAA",
+        "color13": "#495AB9",
+        "color14": "#2B54C9",
+        "color15": "#c2c2c5"
+    }
+}

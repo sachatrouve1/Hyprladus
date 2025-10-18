@@ -1,0 +1,28 @@
+{
+    "checksum": "0b9b05d425de51ae2b164074b0c137dd",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/tim-stief-YFFGkE3y4F8-unsplash.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a1815",
+        "foreground": "#c1c5c4",
+        "cursor": "#c1c5c4"
+    },
+    "colors": {
+        "color0": "#0a1815",
+        "color1": "#4F919E",
+        "color2": "#6C8F99",
+        "color3": "#93A4AC",
+        "color4": "#C3BEBD",
+        "color5": "#A3BAC5",
+        "color6": "#B4C6D0",
+        "color7": "#c1c5c4",
+        "color8": "#596d69",
+        "color9": "#4F919E",
+        "color10": "#6C8F99",
+        "color11": "#93A4AC",
+        "color12": "#C3BEBD",
+        "color13": "#A3BAC5",
+        "color14": "#B4C6D0",
+        "color15": "#c1c5c4"
+    }
+}

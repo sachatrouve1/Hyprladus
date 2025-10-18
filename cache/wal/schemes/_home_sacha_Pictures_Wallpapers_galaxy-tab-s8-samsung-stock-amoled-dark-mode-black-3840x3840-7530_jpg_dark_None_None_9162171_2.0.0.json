@@ -1,0 +1,28 @@
+{
+    "checksum": "aa852f5de619babdfdc4ec8e5172050e",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/galaxy-tab-s8-samsung-stock-amoled-dark-mode-black-3840x3840-7530.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0505",
+        "foreground": "#c2c0c0",
+        "cursor": "#c2c0c0"
+    },
+    "colors": {
+        "color0": "#0c0505",
+        "color1": "#8C3706",
+        "color2": "#914A0D",
+        "color3": "#AA5B15",
+        "color4": "#D06E11",
+        "color5": "#9C6B50",
+        "color6": "#E79220",
+        "color7": "#c2c0c0",
+        "color8": "#675555",
+        "color9": "#8C3706",
+        "color10": "#914A0D",
+        "color11": "#AA5B15",
+        "color12": "#D06E11",
+        "color13": "#9C6B50",
+        "color14": "#E79220",
+        "color15": "#c2c0c0"
+    }
+}

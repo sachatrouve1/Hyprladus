@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Downloads/stephan-seeber-y-fIuIXpr4I-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1213",
+        "foreground": "#e6e8e5",
+        "cursor": "#e6e8e5"
+    },
+    "colors": {
+        "color0": "#0f1213",
+        "color1": "#92502E",
+        "color2": "#297C83",
+        "color3": "#229197",
+        "color4": "#609C9F",
+        "color5": "#9DB3B3",
+        "color6": "#D1DAD6",
+        "color7": "#e6e8e5",
+        "color8": "#a1a2a0",
+        "color9": "#92502E",
+        "color10": "#297C83",
+        "color11": "#229197",
+        "color12": "#609C9F",
+        "color13": "#9DB3B3",
+        "color14": "#D1DAD6",
+        "color15": "#e6e8e5"
+    }
+}

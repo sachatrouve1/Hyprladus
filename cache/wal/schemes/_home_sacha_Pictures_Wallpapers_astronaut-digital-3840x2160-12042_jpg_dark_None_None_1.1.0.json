@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/astronaut-digital-3840x2160-12042.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0F18",
+        "foreground": "#90c7d6",
+        "cursor": "#90c7d6"
+    },
+    "colors": {
+        "color0": "#0A0F18",
+        "color1": "#16506A",
+        "color2": "#5E554F",
+        "color3": "#9D4F32",
+        "color4": "#BC9369",
+        "color5": "#126B90",
+        "color6": "#527787",
+        "color7": "#90c7d6",
+        "color8": "#648b95",
+        "color9": "#16506A",
+        "color10": "#5E554F",
+        "color11": "#9D4F32",
+        "color12": "#BC9369",
+        "color13": "#126B90",
+        "color14": "#527787",
+        "color15": "#90c7d6"
+    }
+}

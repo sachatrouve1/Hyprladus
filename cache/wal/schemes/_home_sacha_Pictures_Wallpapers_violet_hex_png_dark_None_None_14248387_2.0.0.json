@@ -1,0 +1,28 @@
+{
+    "checksum": "c532b099e9095a29671fa9ba12307643",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/violet_hex.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0d1e",
+        "foreground": "#c2c2c6",
+        "cursor": "#c2c2c6"
+    },
+    "colors": {
+        "color0": "#0d0d1e",
+        "color1": "#490D6C",
+        "color2": "#191B99",
+        "color3": "#2D088D",
+        "color4": "#560AA1",
+        "color5": "#3B39C4",
+        "color6": "#BC0FDC",
+        "color7": "#c2c2c6",
+        "color8": "#5c5c70",
+        "color9": "#490D6C",
+        "color10": "#191B99",
+        "color11": "#2D088D",
+        "color12": "#560AA1",
+        "color13": "#3B39C4",
+        "color14": "#BC0FDC",
+        "color15": "#c2c2c6"
+    }
+}

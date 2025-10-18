@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Downloads/49f6225e6ec741c8be1bd5cb2534c904.webp",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0809",
+        "foreground": "#e8d7d6",
+        "cursor": "#e8d7d6"
+    },
+    "colors": {
+        "color0": "#0c0809",
+        "color1": "#6E5957",
+        "color2": "#A94F4A",
+        "color3": "#9B6563",
+        "color4": "#B5817C",
+        "color5": "#A79797",
+        "color6": "#DBA7A4",
+        "color7": "#e8d7d6",
+        "color8": "#a29695",
+        "color9": "#6E5957",
+        "color10": "#A94F4A",
+        "color11": "#9B6563",
+        "color12": "#B5817C",
+        "color13": "#A79797",
+        "color14": "#DBA7A4",
+        "color15": "#e8d7d6"
+    }
+}

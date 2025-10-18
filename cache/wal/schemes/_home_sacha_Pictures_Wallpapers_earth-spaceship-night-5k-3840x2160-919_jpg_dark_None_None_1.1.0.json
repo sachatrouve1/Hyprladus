@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/earth-spaceship-night-5k-3840x2160-919.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010102",
+        "foreground": "#96c9d7",
+        "cursor": "#96c9d7"
+    },
+    "colors": {
+        "color0": "#010102",
+        "color1": "#314E6B",
+        "color2": "#4D5E72",
+        "color3": "#958379",
+        "color4": "#326B8F",
+        "color5": "#55718B",
+        "color6": "#658CA4",
+        "color7": "#96c9d7",
+        "color8": "#698c96",
+        "color9": "#314E6B",
+        "color10": "#4D5E72",
+        "color11": "#958379",
+        "color12": "#326B8F",
+        "color13": "#55718B",
+        "color14": "#658CA4",
+        "color15": "#96c9d7"
+    }
+}

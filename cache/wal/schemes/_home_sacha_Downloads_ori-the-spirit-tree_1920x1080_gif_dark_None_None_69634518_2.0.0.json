@@ -1,0 +1,28 @@
+{
+    "checksum": "73ab8eda21311e773f1bd5ecfe0aa931",
+    "wallpaper": "/home/sacha/Downloads/ori-the-spirit-tree.1920x1080.gif",
+    "alpha": "100",
+    "special": {
+        "background": "#090b15",
+        "foreground": "#c1c2c4",
+        "cursor": "#c1c2c4"
+    },
+    "colors": {
+        "color0": "#090b15",
+        "color1": "#204772",
+        "color2": "#485471",
+        "color3": "#0C2F8C",
+        "color4": "#12379F",
+        "color5": "#26569E",
+        "color6": "#4170BF",
+        "color7": "#c1c2c4",
+        "color8": "#585b6c",
+        "color9": "#204772",
+        "color10": "#485471",
+        "color11": "#0C2F8C",
+        "color12": "#12379F",
+        "color13": "#26569E",
+        "color14": "#4170BF",
+        "color15": "#c1c2c4"
+    }
+}

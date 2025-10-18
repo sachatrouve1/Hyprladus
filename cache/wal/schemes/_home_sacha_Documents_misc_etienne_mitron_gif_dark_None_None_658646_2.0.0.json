@@ -1,0 +1,28 @@
+{
+    "checksum": "c0c97c45de8e9a846897b28b43d504f4",
+    "wallpaper": "/home/sacha/Documents/misc/etienne_mitron.gif",
+    "alpha": "100",
+    "special": {
+        "background": "#221c16",
+        "foreground": "#c7c6c4",
+        "cursor": "#c7c6c4"
+    },
+    "colors": {
+        "color0": "#221c16",
+        "color1": "#789CAA",
+        "color2": "#9F9E9A",
+        "color3": "#D09F8E",
+        "color4": "#BFCBB3",
+        "color5": "#8FB4CA",
+        "color6": "#A7CEDB",
+        "color7": "#c7c6c4",
+        "color8": "#756b60",
+        "color9": "#789CAA",
+        "color10": "#9F9E9A",
+        "color11": "#D09F8E",
+        "color12": "#BFCBB3",
+        "color13": "#8FB4CA",
+        "color14": "#A7CEDB",
+        "color15": "#c7c6c4"
+    }
+}

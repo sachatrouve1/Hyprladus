@@ -1,0 +1,13 @@
+{  
+    "custom/hyprsunset": {
+        "format": {},
+        "exec": "~/.config/waybar/scripts/toggle_hyprsunset.sh --get",
+        "on-click": "~/.config/waybar/scripts/toggle_hyprsunset.sh --toggle",
+        "tooltip": true,
+        "min-length": 3,
+        "max-length": 3,
+        "interval": 1,
+        "tooltip-format-activated": "Night mode",
+        "tooltip-format-deactivated": "Light mode"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "89c3fc14fc874f0512cfb96313b29432",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/pexels-philkallahar-983200.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090f16",
+        "foreground": "#c1c3c4",
+        "cursor": "#c1c3c4"
+    },
+    "colors": {
+        "color0": "#090f16",
+        "color1": "#2F4953",
+        "color2": "#2D5763",
+        "color3": "#505C65",
+        "color4": "#CD2207",
+        "color5": "#C0913A",
+        "color6": "#5F7787",
+        "color7": "#c1c3c4",
+        "color8": "#59626c",
+        "color9": "#2F4953",
+        "color10": "#2D5763",
+        "color11": "#505C65",
+        "color12": "#CD2207",
+        "color13": "#C0913A",
+        "color14": "#5F7787",
+        "color15": "#c1c3c4"
+    }
+}

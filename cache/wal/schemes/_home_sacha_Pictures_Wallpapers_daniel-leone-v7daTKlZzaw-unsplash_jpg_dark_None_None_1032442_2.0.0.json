@@ -1,0 +1,28 @@
+{
+    "checksum": "89fd50db190580e92439d9ef26021cfe",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/daniel-leone-v7daTKlZzaw-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c191b",
+        "foreground": "#c2c5c6",
+        "cursor": "#c2c5c6"
+    },
+    "colors": {
+        "color0": "#0c191b",
+        "color1": "#295965",
+        "color2": "#366973",
+        "color3": "#467579",
+        "color4": "#3C7381",
+        "color5": "#497C82",
+        "color6": "#5C8B8B",
+        "color7": "#c2c5c6",
+        "color8": "#5b6d6f",
+        "color9": "#295965",
+        "color10": "#366973",
+        "color11": "#467579",
+        "color12": "#3C7381",
+        "color13": "#497C82",
+        "color14": "#5C8B8B",
+        "color15": "#c2c5c6"
+    }
+}

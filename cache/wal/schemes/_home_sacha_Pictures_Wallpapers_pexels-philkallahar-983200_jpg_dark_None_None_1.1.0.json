@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/pexels-philkallahar-983200.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#08090A",
+        "foreground": "#acbcc2",
+        "cursor": "#acbcc2"
+    },
+    "colors": {
+        "color0": "#08090A",
+        "color1": "#2F4953",
+        "color2": "#2D5763",
+        "color3": "#505C65",
+        "color4": "#CD2207",
+        "color5": "#C0913A",
+        "color6": "#5F7787",
+        "color7": "#acbcc2",
+        "color8": "#788387",
+        "color9": "#2F4953",
+        "color10": "#2D5763",
+        "color11": "#505C65",
+        "color12": "#CD2207",
+        "color13": "#C0913A",
+        "color14": "#5F7787",
+        "color15": "#acbcc2"
+    }
+}

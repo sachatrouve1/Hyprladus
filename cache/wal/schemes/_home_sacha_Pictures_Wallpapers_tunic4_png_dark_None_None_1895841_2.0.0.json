@@ -1,0 +1,28 @@
+{
+    "checksum": "6f3bddd9baa38ddd4e5ad28b46e4d59c",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/tunic4.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d1620",
+        "foreground": "#c2c4c7",
+        "cursor": "#c2c4c7"
+    },
+    "colors": {
+        "color0": "#0d1620",
+        "color1": "#5A6D85",
+        "color2": "#67788F",
+        "color3": "#788A9F",
+        "color4": "#8697AB",
+        "color5": "#96A6B7",
+        "color6": "#9FADB8",
+        "color7": "#c2c4c7",
+        "color8": "#5d6671",
+        "color9": "#5A6D85",
+        "color10": "#67788F",
+        "color11": "#788A9F",
+        "color12": "#8697AB",
+        "color13": "#96A6B7",
+        "color14": "#9FADB8",
+        "color15": "#c2c4c7"
+    }
+}

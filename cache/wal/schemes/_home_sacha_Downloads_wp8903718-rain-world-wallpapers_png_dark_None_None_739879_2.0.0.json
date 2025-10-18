@@ -1,0 +1,28 @@
+{
+    "checksum": "345e0399741097ae84ea8c98d6951688",
+    "wallpaper": "/home/sacha/Downloads/wp8903718-rain-world-wallpapers.png",
+    "alpha": "100",
+    "special": {
+        "background": "#120814",
+        "foreground": "#c3c1c4",
+        "cursor": "#c3c1c4"
+    },
+    "colors": {
+        "color0": "#120814",
+        "color1": "#AF492F",
+        "color2": "#C05037",
+        "color3": "#A46352",
+        "color4": "#CE6B59",
+        "color5": "#4E927E",
+        "color6": "#C38C71",
+        "color7": "#c3c1c4",
+        "color8": "#66586b",
+        "color9": "#AF492F",
+        "color10": "#C05037",
+        "color11": "#A46352",
+        "color12": "#CE6B59",
+        "color13": "#4E927E",
+        "color14": "#C38C71",
+        "color15": "#c3c1c4"
+    }
+}

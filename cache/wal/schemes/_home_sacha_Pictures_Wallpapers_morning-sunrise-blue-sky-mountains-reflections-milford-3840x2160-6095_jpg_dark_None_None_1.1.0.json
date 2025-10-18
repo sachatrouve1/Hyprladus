@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/morning-sunrise-blue-sky-mountains-reflections-milford-3840x2160-6095.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#070710",
+        "foreground": "#d0d6df",
+        "cursor": "#d0d6df"
+    },
+    "colors": {
+        "color0": "#070710",
+        "color1": "#D78457",
+        "color2": "#24599F",
+        "color3": "#366EBC",
+        "color4": "#4D70A0",
+        "color5": "#6887AF",
+        "color6": "#6294D8",
+        "color7": "#d0d6df",
+        "color8": "#91959c",
+        "color9": "#D78457",
+        "color10": "#24599F",
+        "color11": "#366EBC",
+        "color12": "#4D70A0",
+        "color13": "#6887AF",
+        "color14": "#6294D8",
+        "color15": "#d0d6df"
+    }
+}

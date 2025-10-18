@@ -1,0 +1,24 @@
+wallpaper: "/home/sacha/Pictures/Wallpapers/Tower-Night.png"
+
+special:
+    background: "#13122b"
+    foreground: "#c4c3ca"
+    cursor: "#c4c3ca"
+
+colors:
+    color0: "#13122b"
+    color1: "#0662B0"
+    color2: "#4349A5"
+    color3: "#0377C6"
+    color4: "#9A6DB2"
+    color5: "#059DE3"
+    color6: "#42A4E1"
+    color7: "#c4c3ca"
+    color8: "#626177"
+    color9: "#0662B0"
+    color10: "#4349A5"
+    color11: "#0377C6"
+    color12: "#9A6DB2"
+    color13: "#059DE3"
+    color14: "#42A4E1"
+    color15: "#c4c3ca"

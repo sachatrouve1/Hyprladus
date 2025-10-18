@@ -1,0 +1,28 @@
+{
+    "checksum": "c940025bc2bae8bf4a3e2249844a917d",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/mountains-retrowave-art-landscape-neon-5k-3840x2160-8339.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#110f24",
+        "foreground": "#c3c3c8",
+        "cursor": "#c3c3c8"
+    },
+    "colors": {
+        "color0": "#110f24",
+        "color1": "#0C2A9E",
+        "color2": "#1964E2",
+        "color3": "#414DCB",
+        "color4": "#F55F9F",
+        "color5": "#D143CB",
+        "color6": "#1C8DEB",
+        "color7": "#c3c3c8",
+        "color8": "#605e74",
+        "color9": "#0C2A9E",
+        "color10": "#1964E2",
+        "color11": "#414DCB",
+        "color12": "#F55F9F",
+        "color13": "#D143CB",
+        "color14": "#1C8DEB",
+        "color15": "#c3c3c8"
+    }
+}

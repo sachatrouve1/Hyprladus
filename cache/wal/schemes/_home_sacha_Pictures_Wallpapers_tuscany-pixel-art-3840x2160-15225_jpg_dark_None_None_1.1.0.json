@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/tuscany-pixel-art-3840x2160-15225.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0B2D",
+        "foreground": "#e3c8de",
+        "cursor": "#e3c8de"
+    },
+    "colors": {
+        "color0": "#0B0B2D",
+        "color1": "#5C68D0",
+        "color2": "#9C65A9",
+        "color3": "#9F74CD",
+        "color4": "#6F8FE5",
+        "color5": "#EBA7AF",
+        "color6": "#A199DD",
+        "color7": "#e3c8de",
+        "color8": "#9e8c9b",
+        "color9": "#5C68D0",
+        "color10": "#9C65A9",
+        "color11": "#9F74CD",
+        "color12": "#6F8FE5",
+        "color13": "#EBA7AF",
+        "color14": "#A199DD",
+        "color15": "#e3c8de"
+    }
+}

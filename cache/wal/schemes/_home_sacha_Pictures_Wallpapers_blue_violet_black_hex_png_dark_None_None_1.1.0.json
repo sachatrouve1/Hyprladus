@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/blue_violet_black_hex.png",
+    "alpha": "100",
+    "special": {
+        "background": "#010003",
+        "foreground": "#c77edf",
+        "cursor": "#c77edf"
+    },
+    "colors": {
+        "color0": "#010003",
+        "color1": "#4A0E72",
+        "color2": "#2F0A8B",
+        "color3": "#510E8C",
+        "color4": "#6A0FA1",
+        "color5": "#780BC4",
+        "color6": "#8C12B1",
+        "color7": "#c77edf",
+        "color8": "#8b589c",
+        "color9": "#4A0E72",
+        "color10": "#2F0A8B",
+        "color11": "#510E8C",
+        "color12": "#6A0FA1",
+        "color13": "#780BC4",
+        "color14": "#8C12B1",
+        "color15": "#c77edf"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/Tower-Night.png",
+    "alpha": "100",
+    "special": {
+        "background": "#03022F",
+        "foreground": "#a7dff5",
+        "cursor": "#a7dff5"
+    },
+    "colors": {
+        "color0": "#03022F",
+        "color1": "#0662B0",
+        "color2": "#4349A5",
+        "color3": "#0377C6",
+        "color4": "#9A6DB2",
+        "color5": "#059DE3",
+        "color6": "#42A4E1",
+        "color7": "#a7dff5",
+        "color8": "#749cab",
+        "color9": "#0662B0",
+        "color10": "#4349A5",
+        "color11": "#0377C6",
+        "color12": "#9A6DB2",
+        "color13": "#059DE3",
+        "color14": "#42A4E1",
+        "color15": "#a7dff5"
+    }
+}

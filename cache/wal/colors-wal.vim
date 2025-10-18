@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/sacha/Pictures/Wallpapers/Tower-Night.png"
+let background = "#13122b"
+let foreground = "#c4c3ca"
+let cursor     = "#c4c3ca"
+
+" Colors
+let color0  = "#13122b"
+let color1  = "#0662B0"
+let color2  = "#4349A5"
+let color3  = "#0377C6"
+let color4  = "#9A6DB2"
+let color5  = "#059DE3"
+let color6  = "#42A4E1"
+let color7  = "#c4c3ca"
+let color8  = "#626177"
+let color9  = "#0662B0"
+let color10 = "#4349A5"
+let color11 = "#0377C6"
+let color12 = "#9A6DB2"
+let color13 = "#059DE3"
+let color14 = "#42A4E1"
+let color15 = "#c4c3ca"

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/astronaut_flower.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0d12",
+        "foreground": "#eedbcd",
+        "cursor": "#eedbcd"
+    },
+    "colors": {
+        "color0": "#0e0d12",
+        "color1": "#C0553A",
+        "color2": "#996965",
+        "color3": "#B88379",
+        "color4": "#E38A68",
+        "color5": "#7B868B",
+        "color6": "#E9AB93",
+        "color7": "#eedbcd",
+        "color8": "#a6998f",
+        "color9": "#C0553A",
+        "color10": "#996965",
+        "color11": "#B88379",
+        "color12": "#E38A68",
+        "color13": "#7B868B",
+        "color14": "#E9AB93",
+        "color15": "#eedbcd"
+    }
+}

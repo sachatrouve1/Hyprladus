@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/lone-tree-planet-surreal-night-silhouette-starry-sky-5k-5760x3240-920.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0a0c",
+        "foreground": "#95becb",
+        "cursor": "#95becb"
+    },
+    "colors": {
+        "color0": "#0f0a0c",
+        "color1": "#28496A",
+        "color2": "#60496F",
+        "color3": "#983D61",
+        "color4": "#1D668B",
+        "color5": "#5F618B",
+        "color6": "#A76B91",
+        "color7": "#95becb",
+        "color8": "#68858e",
+        "color9": "#28496A",
+        "color10": "#60496F",
+        "color11": "#983D61",
+        "color12": "#1D668B",
+        "color13": "#5F618B",
+        "color14": "#A76B91",
+        "color15": "#95becb"
+    }
+}

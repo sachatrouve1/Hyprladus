@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/windows-10-dark-blue-5k-8k-3840x2160-733.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010113",
+        "foreground": "#94d6f2",
+        "cursor": "#94d6f2"
+    },
+    "colors": {
+        "color0": "#010113",
+        "color1": "#0156AD",
+        "color2": "#0261BD",
+        "color3": "#016BD1",
+        "color4": "#017AE4",
+        "color5": "#018DF4",
+        "color6": "#06ACFC",
+        "color7": "#94d6f2",
+        "color8": "#6795a9",
+        "color9": "#0156AD",
+        "color10": "#0261BD",
+        "color11": "#016BD1",
+        "color12": "#017AE4",
+        "color13": "#018DF4",
+        "color14": "#06ACFC",
+        "color15": "#94d6f2"
+    }
+}

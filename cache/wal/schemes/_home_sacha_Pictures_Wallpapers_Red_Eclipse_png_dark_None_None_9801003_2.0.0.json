@@ -1,0 +1,28 @@
+{
+    "checksum": "21a3603bace4db48ce62bfa51abcdbda",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/Red_Eclipse.png",
+    "alpha": "100",
+    "special": {
+        "background": "#160b19",
+        "foreground": "#c4c2c5",
+        "cursor": "#c4c2c5"
+    },
+    "colors": {
+        "color0": "#160b19",
+        "color1": "#58202A",
+        "color2": "#74232A",
+        "color3": "#563E4B",
+        "color4": "#8C1C2B",
+        "color5": "#8E272C",
+        "color6": "#A45552",
+        "color7": "#c4c2c5",
+        "color8": "#6a5a6e",
+        "color9": "#58202A",
+        "color10": "#74232A",
+        "color11": "#563E4B",
+        "color12": "#8C1C2B",
+        "color13": "#8E272C",
+        "color14": "#A45552",
+        "color15": "#c4c2c5"
+    }
+}

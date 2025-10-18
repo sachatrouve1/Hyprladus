@@ -1,0 +1,28 @@
+{
+    "checksum": "414e6b2ee25658d49d3ab0737efa18dd",
+    "wallpaper": "/home/sacha/Documents/misc/hugel.png",
+    "alpha": "100",
+    "special": {
+        "background": "#180e0a",
+        "foreground": "#c5c2c1",
+        "cursor": "#c5c2c1"
+    },
+    "colors": {
+        "color0": "#180e0a",
+        "color1": "#B7AC8E",
+        "color2": "#9A9EA1",
+        "color3": "#D6B197",
+        "color4": "#DAC7B0",
+        "color5": "#B3BFCD",
+        "color6": "#D8D5CA",
+        "color7": "#c5c2c1",
+        "color8": "#6d6059",
+        "color9": "#B7AC8E",
+        "color10": "#9A9EA1",
+        "color11": "#D6B197",
+        "color12": "#DAC7B0",
+        "color13": "#B3BFCD",
+        "color14": "#D8D5CA",
+        "color15": "#c5c2c1"
+    }
+}

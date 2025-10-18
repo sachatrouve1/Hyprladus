@@ -1,0 +1,28 @@
+{
+    "checksum": "1840b1453939d32212e6fa5c5298d8df",
+    "wallpaper": "/home/sacha/Documents/misc/sylvain_durif-cosmos-illumine.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#21230f",
+        "foreground": "#c7c8c3",
+        "cursor": "#c7c8c3"
+    },
+    "colors": {
+        "color0": "#21230f",
+        "color1": "#9D8972",
+        "color2": "#CA8D76",
+        "color3": "#A79D95",
+        "color4": "#DAAD9B",
+        "color5": "#E7C8B5",
+        "color6": "#C2BEC0",
+        "color7": "#c7c8c3",
+        "color8": "#70745e",
+        "color9": "#9D8972",
+        "color10": "#CA8D76",
+        "color11": "#A79D95",
+        "color12": "#DAAD9B",
+        "color13": "#E7C8B5",
+        "color14": "#C2BEC0",
+        "color15": "#c7c8c3"
+    }
+}

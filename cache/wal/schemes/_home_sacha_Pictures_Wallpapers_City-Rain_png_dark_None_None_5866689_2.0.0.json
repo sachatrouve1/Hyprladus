@@ -1,0 +1,28 @@
+{
+    "checksum": "2bc148d5445730e5a559cb68e1c566c8",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/City-Rain.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0d20",
+        "foreground": "#c2c2c7",
+        "cursor": "#c2c2c7"
+    },
+    "colors": {
+        "color0": "#0d0d20",
+        "color1": "#3A444C",
+        "color2": "#595B5C",
+        "color3": "#A14C32",
+        "color4": "#B55335",
+        "color5": "#6E817F",
+        "color6": "#E6A15B",
+        "color7": "#c2c2c7",
+        "color8": "#5d5d71",
+        "color9": "#3A444C",
+        "color10": "#595B5C",
+        "color11": "#A14C32",
+        "color12": "#B55335",
+        "color13": "#6E817F",
+        "color14": "#E6A15B",
+        "color15": "#c2c2c7"
+    }
+}

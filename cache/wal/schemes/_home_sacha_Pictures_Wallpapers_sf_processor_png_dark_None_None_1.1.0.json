@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/sf_processor.png",
+    "alpha": "100",
+    "special": {
+        "background": "#046D0C",
+        "foreground": "#aaddcc",
+        "cursor": "#aaddcc"
+    },
+    "colors": {
+        "color0": "#046D0C",
+        "color1": "#2C8754",
+        "color2": "#2F1460",
+        "color3": "#46926A",
+        "color4": "#35B069",
+        "color5": "#4CBD78",
+        "color6": "#62C493",
+        "color7": "#aaddcc",
+        "color8": "#769a8e",
+        "color9": "#2C8754",
+        "color10": "#2F1460",
+        "color11": "#46926A",
+        "color12": "#35B069",
+        "color13": "#4CBD78",
+        "color14": "#62C493",
+        "color15": "#aaddcc"
+    }
+}

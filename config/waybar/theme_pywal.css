@@ -1,0 +1,45 @@
+@import "../../.cache/wal/colors-waybar-opti.css";
+
+@define-color white           #ffffff;
+@define-color black           #000000;
+
+@define-color warning         #e5c890;
+@define-color critical        #e78284;
+@define-color charging        #a6d189;
+
+/* 
+  bg - background
+  fg - foreground
+  br - border
+*/
+
+/* Main Colors */
+
+@define-color main-fg         @foreground;
+@define-color main-bg         @background;
+@define-color main-br         @foreground;
+@define-color active-bg       @color6;
+@define-color active-fg       @foreground;
+@define-color hover-bg        @color3;
+@define-color hover-fg        alpha(@text, 0.75);
+@define-color outline         shade(@background, 0.5);
+
+/* Module Colors */
+
+@define-color module-fg       @foreground;
+@define-color workspaces      shade(@color3, 0.5);
+
+@define-color temperature     shade(@color3, 0.5);
+@define-color memory          shade(@color3, 0.7);
+@define-color cpu             shade(@color3, 0.9);
+@define-color distro-fg       @black;
+@define-color distro-bg       shade(@color6, 1.2);
+@define-color time            shade(@color3, 0.9);
+@define-color date            shade(@color3, 0.7);
+@define-color tray            shade(@color3, 0.5);
+@define-color volume          shade(@color3, 0.5);
+
+@define-color pulseaudio      shade(@color3, 0.5);
+@define-color backlight       shade(@color3, 0.7);
+@define-color battery         shade(@color3, 0.9);
+@define-color power           shade(@color3, 0.9);

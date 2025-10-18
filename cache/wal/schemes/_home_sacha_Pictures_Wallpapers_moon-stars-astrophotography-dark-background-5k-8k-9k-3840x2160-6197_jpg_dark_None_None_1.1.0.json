@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/moon-stars-astrophotography-dark-background-5k-8k-9k-3840x2160-6197.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#050814",
+        "foreground": "#dedee0",
+        "cursor": "#dedee0"
+    },
+    "colors": {
+        "color0": "#050814",
+        "color1": "#494B54",
+        "color2": "#66656E",
+        "color3": "#7B7A84",
+        "color4": "#827D83",
+        "color5": "#A09EA4",
+        "color6": "#BEBCC2",
+        "color7": "#dedee0",
+        "color8": "#9b9b9c",
+        "color9": "#494B54",
+        "color10": "#66656E",
+        "color11": "#7B7A84",
+        "color12": "#827D83",
+        "color13": "#A09EA4",
+        "color14": "#BEBCC2",
+        "color15": "#dedee0"
+    }
+}

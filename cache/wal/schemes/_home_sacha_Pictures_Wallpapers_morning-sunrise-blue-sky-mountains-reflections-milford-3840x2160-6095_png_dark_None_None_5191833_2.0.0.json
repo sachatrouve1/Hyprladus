@@ -1,0 +1,28 @@
+{
+    "checksum": "a230a616fb9816845a679ea2c1fcf0c1",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/morning-sunrise-blue-sky-mountains-reflections-milford-3840x2160-6095.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0b19",
+        "foreground": "#c2c2c5",
+        "cursor": "#c2c2c5"
+    },
+    "colors": {
+        "color0": "#0b0b19",
+        "color1": "#D78457",
+        "color2": "#24599F",
+        "color3": "#366EBC",
+        "color4": "#4D70A0",
+        "color5": "#6887AF",
+        "color6": "#6294D8",
+        "color7": "#c2c2c5",
+        "color8": "#5a5a6e",
+        "color9": "#D78457",
+        "color10": "#24599F",
+        "color11": "#366EBC",
+        "color12": "#4D70A0",
+        "color13": "#6887AF",
+        "color14": "#6294D8",
+        "color15": "#c2c2c5"
+    }
+}

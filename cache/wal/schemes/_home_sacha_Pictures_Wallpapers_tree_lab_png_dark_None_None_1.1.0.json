@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/tree_lab.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0F10",
+        "foreground": "#c1e2ce",
+        "cursor": "#c1e2ce"
+    },
+    "colors": {
+        "color0": "#0B0F10",
+        "color1": "#509772",
+        "color2": "#8E976B",
+        "color3": "#3A748B",
+        "color4": "#379193",
+        "color5": "#5AA19A",
+        "color6": "#6ECAA8",
+        "color7": "#c1e2ce",
+        "color8": "#879e90",
+        "color9": "#509772",
+        "color10": "#8E976B",
+        "color11": "#3A748B",
+        "color12": "#379193",
+        "color13": "#5AA19A",
+        "color14": "#6ECAA8",
+        "color15": "#c1e2ce"
+    }
+}

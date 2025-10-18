@@ -1,0 +1,28 @@
+{
+    "checksum": "8f091c459b5e257990609d7e7308c521",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/yellow_city.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d191e",
+        "foreground": "#c2c5c6",
+        "cursor": "#c2c5c6"
+    },
+    "colors": {
+        "color0": "#0d191e",
+        "color1": "#586C4B",
+        "color2": "#90793B",
+        "color3": "#66965A",
+        "color4": "#EDA03B",
+        "color5": "#9F9B51",
+        "color6": "#BDB452",
+        "color7": "#c2c5c6",
+        "color8": "#5c6b70",
+        "color9": "#586C4B",
+        "color10": "#90793B",
+        "color11": "#66965A",
+        "color12": "#EDA03B",
+        "color13": "#9F9B51",
+        "color14": "#BDB452",
+        "color15": "#c2c5c6"
+    }
+}

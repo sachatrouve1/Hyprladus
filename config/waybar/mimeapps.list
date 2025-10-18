@@ -1,0 +1,15 @@
+[Added Associations]
+image/png=okularApplication_kimgio.desktop;firefox.desktop;feh.desktop;
+image/jpeg=firefox.desktop;okularApplication_kimgio.desktop;feh.desktop;
+video/webm=firefox.desktop;vlc.desktop;
+video/mp4=vlc.desktop;firefox.desktop;code.desktop;
+application/x-zerosize=sublime_text.desktop;
+text/plain=sublime_text.desktop;
+application/pdf=okularApplication_pdf.desktop;
+
+[Default Applications]
+x-scheme-handler/betterdiscord=discord.desktop
+application/x-zerosize=sublime_text.desktop
+x-scheme-handler/discord=vesktop.desktop
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
+x-scheme-handler/gitkraken=GitKraken.desktop

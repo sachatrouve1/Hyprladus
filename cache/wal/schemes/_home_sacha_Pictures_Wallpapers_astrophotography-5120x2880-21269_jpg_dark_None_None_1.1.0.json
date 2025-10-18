@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/astrophotography-5120x2880-21269.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#04201D",
+        "foreground": "#c6e8e7",
+        "cursor": "#c6e8e7"
+    },
+    "colors": {
+        "color0": "#04201D",
+        "color1": "#54A374",
+        "color2": "#107986",
+        "color3": "#1D9F9A",
+        "color4": "#48C5AE",
+        "color5": "#61D5D3",
+        "color6": "#9FD7AB",
+        "color7": "#c6e8e7",
+        "color8": "#8aa2a1",
+        "color9": "#54A374",
+        "color10": "#107986",
+        "color11": "#1D9F9A",
+        "color12": "#48C5AE",
+        "color13": "#61D5D3",
+        "color14": "#9FD7AB",
+        "color15": "#c6e8e7"
+    }
+}

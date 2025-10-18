@@ -1,0 +1,28 @@
+{
+    "checksum": "9dfb4b0e992fa49e30c283825271e567",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/cartoon_yellow_planet.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0e1820",
+        "foreground": "#c2c5c7",
+        "cursor": "#c2c5c7"
+    },
+    "colors": {
+        "color0": "#0e1820",
+        "color1": "#8C7A4D",
+        "color2": "#6E8771",
+        "color3": "#DA983D",
+        "color4": "#9B9C6C",
+        "color5": "#DFAF57",
+        "color6": "#F2CF6C",
+        "color7": "#c2c5c7",
+        "color8": "#5d6772",
+        "color9": "#8C7A4D",
+        "color10": "#6E8771",
+        "color11": "#DA983D",
+        "color12": "#9B9C6C",
+        "color13": "#DFAF57",
+        "color14": "#F2CF6C",
+        "color15": "#c2c5c7"
+    }
+}

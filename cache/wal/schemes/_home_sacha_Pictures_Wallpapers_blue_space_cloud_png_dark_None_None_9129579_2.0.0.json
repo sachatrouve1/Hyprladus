@@ -1,0 +1,28 @@
+{
+    "checksum": "beeee8f8ec968adf649afba29f0aae4a",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/blue_space_cloud.png",
+    "alpha": "100",
+    "special": {
+        "background": "#142230",
+        "foreground": "#c4c7cb",
+        "cursor": "#c4c7cb"
+    },
+    "colors": {
+        "color0": "#142230",
+        "color1": "#2B4377",
+        "color2": "#18548E",
+        "color3": "#2C5191",
+        "color4": "#2365A6",
+        "color5": "#2B6AB1",
+        "color6": "#3179C6",
+        "color7": "#c4c7cb",
+        "color8": "#636e7a",
+        "color9": "#2B4377",
+        "color10": "#18548E",
+        "color11": "#2C5191",
+        "color12": "#2365A6",
+        "color13": "#2B6AB1",
+        "color14": "#3179C6",
+        "color15": "#c4c7cb"
+    }
+}

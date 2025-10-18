@@ -1,0 +1,28 @@
+{
+    "checksum": "80dd262dffa8d2569f4bd56075cd315b",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/cartoon_planet.png",
+    "alpha": "100",
+    "special": {
+        "background": "#121f2a",
+        "foreground": "#c3c7c9",
+        "cursor": "#c3c7c9"
+    },
+    "colors": {
+        "color0": "#121f2a",
+        "color1": "#5C585C",
+        "color2": "#AD3A47",
+        "color3": "#A15253",
+        "color4": "#DA5E52",
+        "color5": "#D08E6A",
+        "color6": "#43A395",
+        "color7": "#c3c7c9",
+        "color8": "#616d76",
+        "color9": "#5C585C",
+        "color10": "#AD3A47",
+        "color11": "#A15253",
+        "color12": "#DA5E52",
+        "color13": "#D08E6A",
+        "color14": "#43A395",
+        "color15": "#c3c7c9"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/ios-13-stock-ipados-red-black-background-amoled-ipad-hd-5120x5120-792.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#e297a1",
+        "cursor": "#e297a1"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#5D1958",
+        "color2": "#8C1824",
+        "color3": "#A72125",
+        "color4": "#CD372E",
+        "color5": "#DF512B",
+        "color6": "#9C285F",
+        "color7": "#e297a1",
+        "color8": "#9e6970",
+        "color9": "#5D1958",
+        "color10": "#8C1824",
+        "color11": "#A72125",
+        "color12": "#CD372E",
+        "color13": "#DF512B",
+        "color14": "#9C285F",
+        "color15": "#e297a1"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/deep-space-cosmic-5120x2880-21267.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0221",
+        "foreground": "#d1cae7",
+        "cursor": "#d1cae7"
+    },
+    "colors": {
+        "color0": "#0a0221",
+        "color1": "#385CCB",
+        "color2": "#5963D9",
+        "color3": "#BB56C8",
+        "color4": "#A465CF",
+        "color5": "#5596B8",
+        "color6": "#639CE2",
+        "color7": "#d1cae7",
+        "color8": "#928da1",
+        "color9": "#385CCB",
+        "color10": "#5963D9",
+        "color11": "#BB56C8",
+        "color12": "#A465CF",
+        "color13": "#5596B8",
+        "color14": "#639CE2",
+        "color15": "#d1cae7"
+    }
+}

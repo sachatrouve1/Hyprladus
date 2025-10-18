@@ -1,0 +1,28 @@
+{
+    "checksum": "56480f01ec7f704f681ff71c3705406a",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/patrick-fore-850jTF12RSQ-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b1919",
+        "foreground": "#c2c5c5",
+        "cursor": "#c2c5c5"
+    },
+    "colors": {
+        "color0": "#0b1919",
+        "color1": "#4F5045",
+        "color2": "#6A5846",
+        "color3": "#746351",
+        "color4": "#925E39",
+        "color5": "#996E4D",
+        "color6": "#BC845B",
+        "color7": "#c2c5c5",
+        "color8": "#5a6e6e",
+        "color9": "#4F5045",
+        "color10": "#6A5846",
+        "color11": "#746351",
+        "color12": "#925E39",
+        "color13": "#996E4D",
+        "color14": "#BC845B",
+        "color15": "#c2c5c5"
+    }
+}

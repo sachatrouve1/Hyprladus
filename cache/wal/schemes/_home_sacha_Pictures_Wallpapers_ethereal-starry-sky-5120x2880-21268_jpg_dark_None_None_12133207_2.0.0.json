@@ -1,0 +1,28 @@
+{
+    "checksum": "a2ec943c9be9a2e6d9be99e666be9e12",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/ethereal-starry-sky-5120x2880-21268.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#120e22",
+        "foreground": "#c3c2c7",
+        "cursor": "#c3c2c7"
+    },
+    "colors": {
+        "color0": "#120e22",
+        "color1": "#962DA7",
+        "color2": "#C67282",
+        "color3": "#D75BAC",
+        "color4": "#9637D8",
+        "color5": "#9E56F2",
+        "color6": "#DC66EE",
+        "color7": "#c3c2c7",
+        "color8": "#615e72",
+        "color9": "#962DA7",
+        "color10": "#C67282",
+        "color11": "#D75BAC",
+        "color12": "#9637D8",
+        "color13": "#9E56F2",
+        "color14": "#DC66EE",
+        "color15": "#c3c2c7"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/starry-sky-orange-5120x2880-21277.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#200601",
+        "foreground": "#eeddc5",
+        "cursor": "#eeddc5"
+    },
+    "colors": {
+        "color0": "#200601",
+        "color1": "#B86147",
+        "color2": "#D4714E",
+        "color3": "#66976C",
+        "color4": "#E0A75C",
+        "color5": "#E89B64",
+        "color6": "#EDB38B",
+        "color7": "#eeddc5",
+        "color8": "#a69a89",
+        "color9": "#B86147",
+        "color10": "#D4714E",
+        "color11": "#66976C",
+        "color12": "#E0A75C",
+        "color13": "#E89B64",
+        "color14": "#EDB38B",
+        "color15": "#eeddc5"
+    }
+}

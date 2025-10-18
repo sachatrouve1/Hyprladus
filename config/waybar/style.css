@@ -1,0 +1,92 @@
+@import "styles/modules-center.css";
+@import "styles/modules-left.css";
+@import "styles/modules-right.css";
+@import "theme_pywal.css";
+
+* {
+	font-family: "0xProto Nerd Font";
+	font-weight: bold;
+	font-size: 13px;
+	color: @main-fg;
+}
+
+/* main outline */
+
+window#waybar {
+	background-color: @outline;
+	background: transparent;
+}
+
+/* main background */
+
+window#waybar > box {
+	margin: 2px;
+	/* background-color: alpha(@main-bg, 0.5); */
+	padding: 3px 0 3px 0;
+}
+
+.modules-left,
+.modules-center,
+.modules-right {
+    min-height: 0;
+	padding: 0;
+}
+
+/* hoverables */
+
+#custom-theme_switcher:hover,
+#idle_inhibitor:hover,
+#clock.date:hover,
+#network:hover,
+#bluetooth:hover,
+#custom-system_update:hover,
+#mpris:hover,
+#pulseaudio:hover,
+#custom-hyprsunset:hover {
+	color: @hover-fg;
+}
+
+/* states */
+
+.warning { color: @warning; }
+.critical { color: @critical; }
+.charging { color: @charging; }
+.muted { color: @hover-fg; }
+
+/* dividers */
+
+#custom-left_div,
+#custom-left_inv,
+#custom-right_div,
+#custom-right_inv {
+	font-size: 20px;
+	padding-top: 0px;
+}
+
+/* buttons */
+
+button {
+	border-radius: 20px;
+	padding: 0 10px;
+	min-height: 0;
+}
+button:hover {
+	background-color: @hover-bg;
+	color: @hover-fg;
+}
+
+/* tooltips */
+
+tooltip {
+	border: 2px solid @main-br;
+	border-radius: 10px;
+	background-color: @main-bg;
+}
+tooltip label {
+	margin: 2px 4px;
+	font-weight: normal;
+}
+tooltip decoration {
+	border: none;
+	background-color: transparent;
+}

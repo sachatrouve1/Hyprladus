@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/.cache/wallpaper.png",
+    "alpha": "100",
+    "special": {
+        "background": "#010A0F",
+        "foreground": "#8bcfe1",
+        "cursor": "#8bcfe1"
+    },
+    "colors": {
+        "color0": "#010A0F",
+        "color1": "#195E72",
+        "color2": "#4C6775",
+        "color3": "#0F6C8F",
+        "color4": "#106B95",
+        "color5": "#55788B",
+        "color6": "#168AAF",
+        "color7": "#8bcfe1",
+        "color8": "#61909d",
+        "color9": "#195E72",
+        "color10": "#4C6775",
+        "color11": "#0F6C8F",
+        "color12": "#106B95",
+        "color13": "#55788B",
+        "color14": "#168AAF",
+        "color15": "#8bcfe1"
+    }
+}

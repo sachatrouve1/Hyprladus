@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Downloads/cover3-419244233.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#21212f",
+        "foreground": "#dbced9",
+        "cursor": "#dbced9"
+    },
+    "colors": {
+        "color0": "#21212f",
+        "color1": "#4F6EA1",
+        "color2": "#4C7FC4",
+        "color3": "#8E788A",
+        "color4": "#C3799F",
+        "color5": "#648AC3",
+        "color6": "#A6969B",
+        "color7": "#dbced9",
+        "color8": "#999097",
+        "color9": "#4F6EA1",
+        "color10": "#4C7FC4",
+        "color11": "#8E788A",
+        "color12": "#C3799F",
+        "color13": "#648AC3",
+        "color14": "#A6969B",
+        "color15": "#dbced9"
+    }
+}

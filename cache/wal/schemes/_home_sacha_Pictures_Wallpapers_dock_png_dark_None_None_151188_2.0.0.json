@@ -1,0 +1,28 @@
+{
+    "checksum": "016de153f13f48d48fac5d6c4ec3cff9",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/dock.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1b160c",
+        "foreground": "#c6c4c2",
+        "cursor": "#c6c4c2"
+    },
+    "colors": {
+        "color0": "#1b160c",
+        "color1": "#CE7737",
+        "color2": "#966D59",
+        "color3": "#A87F59",
+        "color4": "#F6A738",
+        "color5": "#B49262",
+        "color6": "#C8A972",
+        "color7": "#c6c4c2",
+        "color8": "#6f685b",
+        "color9": "#CE7737",
+        "color10": "#966D59",
+        "color11": "#A87F59",
+        "color12": "#F6A738",
+        "color13": "#B49262",
+        "color14": "#C8A972",
+        "color15": "#c6c4c2"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "83e005d5b16d62413bdbb3399fb42ebe",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/nicolascage.png",
+    "alpha": "100",
+    "special": {
+        "background": "#180a0a",
+        "foreground": "#c5c1c1",
+        "cursor": "#c5c1c1"
+    },
+    "colors": {
+        "color0": "#180a0a",
+        "color1": "#EF9D62",
+        "color2": "#33569A",
+        "color3": "#C23FA8",
+        "color4": "#53A6C3",
+        "color5": "#AFAFB2",
+        "color6": "#F7D4A4",
+        "color7": "#c5c1c1",
+        "color8": "#6d5959",
+        "color9": "#EF9D62",
+        "color10": "#33569A",
+        "color11": "#C23FA8",
+        "color12": "#53A6C3",
+        "color13": "#AFAFB2",
+        "color14": "#F7D4A4",
+        "color15": "#c5c1c1"
+    }
+}

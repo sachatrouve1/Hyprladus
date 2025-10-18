@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/moon-3d-render-6000x3375-11032.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D0302",
+        "foreground": "#e1d3ca",
+        "cursor": "#e1d3ca"
+    },
+    "colors": {
+        "color0": "#0D0302",
+        "color1": "#9A6E57",
+        "color2": "#7E8173",
+        "color3": "#AE8A73",
+        "color4": "#C99174",
+        "color5": "#D0AA94",
+        "color6": "#C9BAAB",
+        "color7": "#e1d3ca",
+        "color8": "#9d938d",
+        "color9": "#9A6E57",
+        "color10": "#7E8173",
+        "color11": "#AE8A73",
+        "color12": "#C99174",
+        "color13": "#D0AA94",
+        "color14": "#C9BAAB",
+        "color15": "#e1d3ca"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "b38f03cdaa0bc254e8d4c8313358bd7c",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/space_draw.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1e1e0c",
+        "foreground": "#c6c6c2",
+        "cursor": "#c6c6c2"
+    },
+    "colors": {
+        "color0": "#1e1e0c",
+        "color1": "#867967",
+        "color2": "#9E8E76",
+        "color3": "#C1A47E",
+        "color4": "#B2A287",
+        "color5": "#CFB691",
+        "color6": "#CABCA4",
+        "color7": "#c6c6c2",
+        "color8": "#70705c",
+        "color9": "#867967",
+        "color10": "#9E8E76",
+        "color11": "#C1A47E",
+        "color12": "#B2A287",
+        "color13": "#CFB691",
+        "color14": "#CABCA4",
+        "color15": "#c6c6c2"
+    }
+}

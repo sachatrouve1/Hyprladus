@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/pexels-umkreisel-app-956999.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B151D",
+        "foreground": "#b1bac7",
+        "cursor": "#b1bac7"
+    },
+    "colors": {
+        "color0": "#0B151D",
+        "color1": "#46376B",
+        "color2": "#2F4559",
+        "color3": "#32496E",
+        "color4": "#4C5870",
+        "color5": "#3A5287",
+        "color6": "#576690",
+        "color7": "#b1bac7",
+        "color8": "#7b828b",
+        "color9": "#46376B",
+        "color10": "#2F4559",
+        "color11": "#32496E",
+        "color12": "#4C5870",
+        "color13": "#3A5287",
+        "color14": "#576690",
+        "color15": "#b1bac7"
+    }
+}

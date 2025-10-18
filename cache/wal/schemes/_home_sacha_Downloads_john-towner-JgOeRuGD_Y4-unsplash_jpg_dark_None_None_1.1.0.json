@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Downloads/john-towner-JgOeRuGD_Y4-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#04070C",
+        "foreground": "#b2bac6",
+        "cursor": "#b2bac6"
+    },
+    "colors": {
+        "color0": "#04070C",
+        "color1": "#49596E",
+        "color2": "#526278",
+        "color3": "#923C48",
+        "color4": "#3D6084",
+        "color5": "#596B86",
+        "color6": "#677790",
+        "color7": "#b2bac6",
+        "color8": "#7c828a",
+        "color9": "#49596E",
+        "color10": "#526278",
+        "color11": "#923C48",
+        "color12": "#3D6084",
+        "color13": "#596B86",
+        "color14": "#677790",
+        "color15": "#b2bac6"
+    }
+}

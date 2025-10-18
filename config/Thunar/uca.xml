@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Open Terminal Here</name>
+	<submenu></submenu>
+	<unique-id>1750634225196247-1</unique-id>
+	<command>kitty &amp;</command>
+	<description></description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon>applications-graphics</icon>
+	<name>Set wallpaper theme</name>
+	<submenu></submenu>
+	<unique-id>1757271985587382-1</unique-id>
+	<command>~/set_wallpaper.sh %n</command>
+	<description>set wallpaper and theme</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<image-files/>
+	<video-files/>
+</action>
+</actions>

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/Fantasy-Japanese-Street.png",
+    "alpha": "100",
+    "special": {
+        "background": "#080E1C",
+        "foreground": "#9cc0d9",
+        "cursor": "#9cc0d9"
+    },
+    "colors": {
+        "color0": "#080E1C",
+        "color1": "#284971",
+        "color2": "#9B2B34",
+        "color3": "#C74648",
+        "color4": "#F5AE68",
+        "color5": "#2F6598",
+        "color6": "#556E9B",
+        "color7": "#9cc0d9",
+        "color8": "#6d8697",
+        "color9": "#284971",
+        "color10": "#9B2B34",
+        "color11": "#C74648",
+        "color12": "#F5AE68",
+        "color13": "#2F6598",
+        "color14": "#556E9B",
+        "color15": "#9cc0d9"
+    }
+}

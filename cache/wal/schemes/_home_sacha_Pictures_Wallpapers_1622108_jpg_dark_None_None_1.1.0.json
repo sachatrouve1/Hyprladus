@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/1622108.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161121",
+        "foreground": "#dfac9f",
+        "cursor": "#dfac9f"
+    },
+    "colors": {
+        "color0": "#161121",
+        "color1": "#3B426F",
+        "color2": "#6B4459",
+        "color3": "#50466D",
+        "color4": "#704C6C",
+        "color5": "#BA583F",
+        "color6": "#A05761",
+        "color7": "#dfac9f",
+        "color8": "#9c786f",
+        "color9": "#3B426F",
+        "color10": "#6B4459",
+        "color11": "#50466D",
+        "color12": "#704C6C",
+        "color13": "#BA583F",
+        "color14": "#A05761",
+        "color15": "#dfac9f"
+    }
+}

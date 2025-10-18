@@ -1,0 +1,28 @@
+{
+    "checksum": "d7bc66fdc03ca490fa57d2248266b01d",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/felix-besombes-nkPBQa6XSEQ-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c1c1c",
+        "foreground": "#c2c6c6",
+        "cursor": "#c2c6c6"
+    },
+    "colors": {
+        "color0": "#0c1c1c",
+        "color1": "#AD593C",
+        "color2": "#C8683E",
+        "color3": "#B36646",
+        "color4": "#CE7247",
+        "color5": "#E17E49",
+        "color6": "#F19152",
+        "color7": "#c2c6c6",
+        "color8": "#5b7070",
+        "color9": "#AD593C",
+        "color10": "#C8683E",
+        "color11": "#B36646",
+        "color12": "#CE7247",
+        "color13": "#E17E49",
+        "color14": "#F19152",
+        "color15": "#c2c6c6"
+    }
+}

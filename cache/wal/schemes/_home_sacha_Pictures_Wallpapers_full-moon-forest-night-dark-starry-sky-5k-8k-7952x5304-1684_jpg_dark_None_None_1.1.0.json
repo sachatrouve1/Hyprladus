@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/full-moon-forest-night-dark-starry-sky-5k-8k-7952x5304-1684.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#080708",
+        "foreground": "#d8d5da",
+        "cursor": "#d8d5da"
+    },
+    "colors": {
+        "color0": "#080708",
+        "color1": "#797A85",
+        "color2": "#807E8C",
+        "color3": "#8D8D93",
+        "color4": "#9C9BA5",
+        "color5": "#ADABB2",
+        "color6": "#BAB8C4",
+        "color7": "#d8d5da",
+        "color8": "#979598",
+        "color9": "#797A85",
+        "color10": "#807E8C",
+        "color11": "#8D8D93",
+        "color12": "#9C9BA5",
+        "color13": "#ADABB2",
+        "color14": "#BAB8C4",
+        "color15": "#d8d5da"
+    }
+}

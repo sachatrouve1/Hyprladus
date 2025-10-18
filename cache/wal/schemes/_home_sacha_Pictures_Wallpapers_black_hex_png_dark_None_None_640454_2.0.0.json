@@ -1,0 +1,28 @@
+{
+    "checksum": "936ca12fff57db5711ff70cc2a0d86a7",
+    "wallpaper": "/home/sacha/Pictures/Wallpapers/black_hex.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c141d",
+        "foreground": "#c2c4c6",
+        "cursor": "#c2c4c6"
+    },
+    "colors": {
+        "color0": "#0c141d",
+        "color1": "#044E6D",
+        "color2": "#025D83",
+        "color3": "#036892",
+        "color4": "#0177A9",
+        "color5": "#0083B9",
+        "color6": "#0091CE",
+        "color7": "#c2c4c6",
+        "color8": "#5c6570",
+        "color9": "#044E6D",
+        "color10": "#025D83",
+        "color11": "#036892",
+        "color12": "#0177A9",
+        "color13": "#0083B9",
+        "color14": "#0091CE",
+        "color15": "#c2c4c6"
+    }
+}

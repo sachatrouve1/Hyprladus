@@ -1,0 +1,28 @@
+{
+    "checksum": "306c8d870c420c32bd897fc4469cc5e5",
+    "wallpaper": "/home/sacha/Downloads/rain-world-creature-encounter-mbw3d33fkvsproi4.png",
+    "alpha": "100",
+    "special": {
+        "background": "#100812",
+        "foreground": "#c3c1c3",
+        "cursor": "#c3c1c3"
+    },
+    "colors": {
+        "color0": "#100812",
+        "color1": "#4D3B4C",
+        "color2": "#1B5C5C",
+        "color3": "#A0314E",
+        "color4": "#129173",
+        "color5": "#26A794",
+        "color6": "#0CD9AF",
+        "color7": "#c3c1c3",
+        "color8": "#67576a",
+        "color9": "#4D3B4C",
+        "color10": "#1B5C5C",
+        "color11": "#A0314E",
+        "color12": "#129173",
+        "color13": "#26A794",
+        "color14": "#0CD9AF",
+        "color15": "#c3c1c3"
+    }
+}
