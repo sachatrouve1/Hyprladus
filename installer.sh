@@ -56,7 +56,7 @@ cp -r config/rofi ~/.config/
 echo "Copying waybar"
 cp -r config/waybar/ ~/.config/
 echo "Copying cursor theme"
-cp -r Bibata-Original-Classic ~/usr/share/icons/
+cp -r Bibata-Original-Classic usr/share/icons/
 cp greetui/config.toml /etc/greetd/
 
 
