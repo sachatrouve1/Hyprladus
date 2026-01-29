@@ -6,7 +6,7 @@
 * {
 	font-family: "0xProto Nerd Font";
 	font-weight: bold;
-	font-size: 14px;
+	font-size: 13px;
 	color: @main-fg;
 }
 
@@ -20,15 +20,15 @@ window#waybar {
 /* main background */
 
 window#waybar > box {
-	margin: 2px;
+	/* padding-top: 5px; */
 	/* background-color: alpha(@main-bg, 0.5); */
-	padding: 3px 0 3px 0;
+	padding: 5px 0;
 }
 
 .modules-left,
 .modules-center,
 .modules-right {
-    min-height: 0;
+  min-height: 0;
 	padding: 0;
 }
 
@@ -42,6 +42,7 @@ window#waybar > box {
 #custom-system_update:hover,
 #mpris:hover,
 #pulseaudio:hover,
+#custom-distro:hover,
 #custom-hyprsunset:hover {
 	color: @hover-fg;
 }
@@ -59,15 +60,14 @@ window#waybar > box {
 #custom-left_inv,
 #custom-right_div,
 #custom-right_inv {
-	font-size: 23px;
-	padding-top: 0px;
+	font-size: 16px;
 }
 
 /* buttons */
 
 button {
-	border-radius: 20px;
-	padding: 0 10px;
+	border-radius: 0px;
+	padding: 0 5px;
 	min-height: 0;
 }
 button:hover {

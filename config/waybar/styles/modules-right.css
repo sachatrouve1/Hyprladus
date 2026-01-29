@@ -45,7 +45,6 @@
 #custom-power_menu {
 	border-radius: 16px;
 	padding: 0 14px 0 10px;
-	font-size: 14px;
 	color: @accent;
 }
 #custom-power_menu:hover {

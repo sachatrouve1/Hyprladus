@@ -34,7 +34,7 @@ toggle_temp() {
     fi
 
     echo "$NEW_TEMP" > "$STATE_FILE"
-    killall hyprsunset 2>/dev/null
+    pkill -9 hyprsunset 2>/dev/null
     hyprsunset -t "$NEW_TEMP" > /dev/null 2>&1 & disown
 }
 

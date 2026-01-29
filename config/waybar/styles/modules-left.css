@@ -25,6 +25,12 @@
     color: @accent;
 }
 
+#tray {
+  padding-left: 6px;
+  padding-right: 10px;
+  color: #ffffff;
+}
+
 #custom-left_div.1,
 #custom-right_div.1 {
 	color: @workspaces;
@@ -34,12 +40,12 @@
 	background-color: @workspaces;
 }
 #workspaces .persistent label {
-	font-size: 16px;
+	/* font-size: 13px; */
 }
 #workspaces .active label {
-	font-size: 18px;
+	font-size: 15px;
 	color: @accent;
-	padding: 1px 5px 0 0;
+	padding: 0px 5px 0 0;
 }
 
 /* window title & count */
@@ -61,6 +67,3 @@
 	font-size: 20px;
 	padding-bottom: 5px;
 }*/
-#tray {
-	padding-right: 5px;
-}

@@ -5,8 +5,9 @@
 #custom-left_div.2 {
 	color: @temperature;
 }
-#temperature {
+#custom-temperature {
 	background-color: @temperature;
+    padding-right: 1px
 }
 
 /* memory */
@@ -38,9 +39,10 @@
 #custom-right_div.2 {
 	color: @distro-bg;
 }
+
 #custom-distro {
-	padding: 0 10px 0 5px;
-	font-size: 20px;
+	padding: 1px 7px 1px 0px;
+	font-size: 15px;
 	background-color: @distro-bg;
 	color: @distro-fg;
 }
@@ -83,13 +85,12 @@
 	
 #idle_inhibitor {
 	background-color: @tray;
-    padding-left: 8px;
-    padding-top: 2px;
+    padding: 1px 6px 0 11px;
 }
 #custom-hyprsunset {
 	background-color: @tray;
-    font-size: 16px;
-    padding: 0 3px 2px 5px;
+    /* font-size: 13px; */
+    padding: 0 11px 1px 6px;
 }
 
 #custom-system_update {
