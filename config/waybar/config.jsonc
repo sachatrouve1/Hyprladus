@@ -173,7 +173,7 @@
         "tooltip": false
     },
     "custom/distro": {
-        "format": "",
+        "format": "",
         "tooltip": false,
         "on-click": "~/.config/waybar/scripts/toggle_effects.sh"
     },
